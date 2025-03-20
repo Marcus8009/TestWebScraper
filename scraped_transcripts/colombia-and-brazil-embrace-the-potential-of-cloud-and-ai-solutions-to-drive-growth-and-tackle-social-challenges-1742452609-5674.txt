@@ -1,0 +1,55 @@
+URL: https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/10/17/colombia-and-brazil-embrace-the-potential-of-cloud-and-ai-solutions-to-drive-growth-and-tackle-social-challenges/
+
+=== TRANSCRIPT CONTENT ===
+
+No transcript found.
+
+=== PAGE PARAGRAPHS CONTENT ===
+
+This blog is part of the AI worldwide tour series, which highlights customers from around the globe who are embracing AI to achieve more. Read about how customers are using responsible AI to drive social impact and business transformation with Global AI innovation.
+
+The technological paradigm shift driven by AI solutions is redefining what current and future success looks like for every industry and market across the world. For a region like Latin America, this opens new paths to not only propel its economies but to positively impact each community. Crucially, it also presents powerful tools to address pressing challenges like skills development and sustainability, while being able to promote inclusive growth. The pivotal role cloud and AI solutions can play on Latin America’s development is substantial.
+
+Build your generative AI fluency
+
+Companies and organizations across the region are already showing eagerness to leverage this technology and realize the potential it entails. Countries like Colombia are home to innovative AI projects. While Brazil, the largest economy in Latin America, has the potential to propel its gross domestic product (GDP) growth by 4.2% through 2030 by strongly adopting AI, according to a study commissioned by Microsoft and conducted by the consultancy FrontierView in 2020.1 Furthermore, the Brazilian market already represents the sixth largest GitHub developer community contributing to generative AI projects globally, demonstrating its appetite for innovation.2
+
+These two markets are setting regional cloud and AI adoption examples on the global stage. Recently, Microsoft’s AI Tour visited both countries to highlight some of the most inspiring and impactful projects and initiatives driven by local organizations, companies, and communities in collaboration with Microsoft.
+
+According to the Andean Amazon Monitoring Project, the Amazon rainforest lost about 3 million hectares to deforestation from 2022 to 2023.3 To address this worrying threat to one of the most diverse and complex ecosystem on the planet, various institutions, including Universidad de Los Andes, Instituto Alexander von Humboldt, Instituto Sinchi, IDEAM, and Microsoft AI for Good Lab, collaborated to create Project Guacamaya, a publicly available AI-powered tool to detect deforestation and biodiversity shifts.
+
+This unique collaboration has brought the public and private sectors, educational institutions, and non-governmental organizations (NGOs) together to create a powerful solution using satellite imagery, camera traps, and bioacoustics to track forest coverage and deforestation patterns, allowing conservationists to better understand its impact and improve prevention and mitigation efforts.
+
+Microsoft continues to evaluate and diligently work to address sustainability and resource needs associated with infrastructure growth. An agreement signed with the Amazon Reforestation Fund operated by Brazilian-based startup Mombak will provide a total of up to 1.5 million tons of carbon removal by 2032 from native biodiversity reforestation projects across the Amazon. This project provided the foundation for the World Bank to issue a USD225 million Amazon Reforestation-Linked Outcome Bond.
+
+Another agreement was signed with Brazilian company re.green that aims to deliver approximately 3 million tons of carbon removal credits over a 15-year period, supporting the restoration of over 16,000 hectares of forest across Brazil, including the states of Maranhão and Bahia. Such programs join initiatives such as Microsoft’s 15-year renewable energy contract signed with AES Brasil for a wind generation project through the Cajuína Wind Complex, located in Rio Grande do Norte, and the agreement with BTG Pactual Timberland Investment Group (TIG) to provide Microsoft with up to 8 million nature-based carbon removal credits through 2043 to be delivered from TIG’s USD1 billion reforestation and restoration strategy in Latin America, which includes the Cerrado biome in Brazil.1
+
+As one of the oldest banks in Colombia with a history that goes back to 1875, Bancolombia brings together tradition and fierce innovation by becoming the global leader in GitHub Copilot adoption. Empowering a technical team of 4,000 people, including 3,400 software and infrastructure engineers, the bank has achieved a 30% increase in code generation, boosting automated application changes to an average of 18,000 per year, with a rate of 42 productive daily deployments. This is the most recent development in Bancolombia’s continuous digital transformation journey to serve its 15 million customers in the region.
+
+For its part, insurance company SURA is employing AI solutions for genomic sequencing processing and clinical and genetic data analysis as part of the work carried out by its Omics Sciences Center. The Center, which aims to transform the treatment of genetic diseases affecting millions of people in the region, led the National Association of Colombian Business Persons (ANDI) to recognize SURA as the most innovative insurer in the country.4 The AI-powered platform has had a significant impact on improving diagnostics, personalized treatment, and scientific research by generating more than 11,500 reports related to hereditary cancer panels and exomes.
+
+In collaboration with 26 organizations in Brazil, including non-profits, educational institutions and governments, Microsoft launched ConectAI (formerly Conecta+), a program designed to provide AI skills training to 5 million people in the country. This ambitious initiative includes collaborations with the National Service for Industrial Training in São Paulo (SENAI), the Ministry of Labor and Employment through the “School of Workers 4.0” program, the non-profit Nova Escola providing training for educators, UNICEF to bring AI skills to people between 18 and 25 years old, and the National School for Public Administration (ENAP) to foster technological innovation in the public sector, among others.
+
+The program represents the next stage in Microsoft’s continued push to enable greater innovation and increased competitiveness for the Brazilian market. Since 2021, Microsoft has fostered digital literacy in the country by engaging with 12.7 million people through the Mais Brasil program, a commitment exemplified by the recently announced investment of BRL14.7 billion in cloud and AI infrastructure over three years, the largest single investment in the company’s 35 year history in the country.
+
+HOW MEXICO IS PIONEERING AI INNOVATION
+
+The amount of talent, creativity, and ambition in Latin America has made the region a hub for innovation in recent years, one now further empowered by recent developments in AI. The projects seen during Microsoft’s AI Tour editions in Colombia and Brazil are only the tip of the iceberg when it comes to the potential and competitiveness AI and cloud technologies are unlocking across crucial industries and sectors in each country. I am convinced the coming years will bring exciting new paths for success as these tools continue to deliver unprecedented solutions to both business and social challenges when combined with the exceptional ingenuity of Latin American markets.
+
+1Microsoft announces 14.7 billion Reais investment over three years in Cloud and AI infrastructure and provide AI training at scale to upskill 5 million people in Brazil, Microsoft News Center Brasil.
+
+2Octoverse: The state of open source and rise of AI in 2023, The GitHub Blog.
+
+3Proyecto Guacamaya usa modelos IA contra la deforestación, Microsoft Source.
+
+4Seguros SURA, a subsidiary of Suramericana, is the most innovative insurer in Colombia according to the most recent ANDI ranking.
+
+Explore how Microsoft's five plays for accelerating sustainability with AI can help your business advance resilience, efficiency, and risk mitigation.
+
+At Microsoft, we’re working with thousands of customers across industries and around the world to help them realize the value of AI.
+
+We’ve collected more than 200 real-life examples of how organizations are partnering with Microsoft and leveraging our proven AI capabilities to achieve their strategic ambitions and solve real business challenges.
+
+Discover how the most trusted and comprehensive cloud can help you meet the challenges of a rapidly changing world.
+
+Notifications

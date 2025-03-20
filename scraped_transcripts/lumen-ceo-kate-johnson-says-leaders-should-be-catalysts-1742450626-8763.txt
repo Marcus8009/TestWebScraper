@@ -1,0 +1,143 @@
+URL: https://www.microsoft.com/en-us/worklab/podcast/lumen-ceo-kate-johnson-says-leaders-should-be-catalysts
+
+=== TRANSCRIPT CONTENT ===
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in the digital age.  
+
+KATE JOHNSON: Think of my role as an instigator. I’m a catalyst. I come in and I say, “Hey, what got us here isn’t going to get us where we need to go, so we need to change things.”  
+
+Show full transcript
+
+=== PAGE PARAGRAPHS CONTENT ===
+
+Podcast
+
+In the age of AI, “what got us here isn’t going to get us where we need to go.”
+
+WorkLab Guest Kate Johnson
+
+September 11, 2024
+
+What does it take to transform your business from the ground up for the AI era? There’s no better person to ask than Kate Johnson, President and CEO of the telecommunications company Lumen.
+
+Johnson believes that AI transformation isn’t just about technology—companies need to do the hard work of culturally changing how they adopt technology. She’s putting this vision into practice at Lumen.  
+ 
+In this episode of the WorkLab podcast, Johnson talks about how AI is helping the company stay agile, reshaping the services Lumen delivers to customers, and transforming the way her 30,000 employees get things done.
+
+Four big takeaways from the conversation:
+
+Leaders need to be change agents. “Think of my role as an instigator. I’m a catalyst,” Johnson says. “I come in and I say, ’Hey, what got us here isn’t going to get us where we need to go, so we need to change things.’” She outlines the breakthroughs that were necessary to shift from a play-not-to-lose to a play-to-win mindset. “Really hard conversations needed to be had for us to excavate the unsaid and actually start tackling problems,” she adds. “You can’t fix what you don’t know exists.”
+
+AI’s real value is in augmenting, not replacing, humans. Johnson notes that thinking about AI as an opportunity for reducing headcount is wrong, and that companies must prepare their employees to take full advantage of the technology. “For a company that’s going through transformation, everybody’s first conclusion is, well, so you don’t need as many people, and that’s not really true—we need the people that we have,” she says. “What we need is for them (A) to be more productive, and then (B) we need lots of skill shifting, reskilling, and upskilling. AI is being very helpful in that journey as well, helping us focus on the right things at the right time during our transformation life cycle.”
+
+If you push too far, you fall off the curve. Johnson says that leaders have to “push hard enough to drive meaningful, measurable change, but not so hard that you lose your audience.” It’s important to realize that AI adoption can be daunting, even a little scary, she says, and some employees will struggle to get a handle on it. When Lumen’s CIO pointed out to her that one of the people who was slow to adopt AI was... Kate Johnson, it was real eye opener. “I would use it a little bit and then not for days. And that’s not really adoption,” Johnson says. “Adoption is when it becomes the way that you work. I had to pick a few easy things to start with, like email. Who doesn’t want to spend less time mired in your inbox?”
+
+AI is huge for sales. Johnson points out that Lumen has been using AI for a long time, but with “the advent of Copilot and generative AI, there’s just a new opportunity.” She insists that the technology is instrumental in helping the entire company be more agile and more informed about what customers need. But she singles out how it has transformed one department in particular: “AI for sales has been huge for our people. It really helps us understand where our customers are in their journey so much faster and better—it’s instantaneous.”
+
+WorkLab is a place for experts to share their insights and opinions. As students of the future of work, Microsoft values inputs from a diverse set of voices. That said, the opinions and findings of the experts we interview are their own and do not reflect Microsoft’s own research or opinions.
+
+Follow the show on Apple Podcasts, Spotify, or wherever you get your podcasts.
+
+Here’s a transcript of the conversation.
+
+MOLLY WOOD: This is WorkLab, the podcast from Microsoft. I’m your host, Molly Wood. On WorkLab we hear from experts about the future of work, from how to use AI effectively to what it takes to thrive in the digital age.
+
+KATE JOHNSON: Think of my role as an instigator. I’m a catalyst. I come in and I say, “Hey, what got us here isn’t going to get us where we need to go, so we need to change things.”
+
+MOLLY WOOD: Today, I’m excited to be talking to Kate Johnson, President and CEO of the telecommunications giant Lumen, who’s here to discuss how embracing the potential of AI tools is powering a cultural transformation there. Now, Microsoft CEO Satya Nadella has said that AI transformation requires not just technology, but that companies do the hard work of culturally changing how they adopt technology. Johnson is a former Microsoft executive who worked closely with Nadella, and she’s putting this vision into practice as Lumen’s change agent in chief. She talked about how AI is helping the company stay agile in the ever-shifting telecom industry, and how it’s reshaping the services Lumen delivers to customers, as well as the way her 30,000 employees get things done.
+
+[Music]
+
+MOLLY WOOD: Kate, thanks so much for being on the program.
+
+KATE JOHNSON: Thanks so much, Molly. It’s great to be here.
+
+MOLLY WOOD: So for those who aren’t familiar with the company, can you explain what Lumen does and what it will do in the future?
+
+KATE JOHNSON: So Lumen is both a consumer and an enterprise company. The consumer is smaller, about 20 percent of the company, and this is, you know, a traditional telephone service with a fiber business called Quantum Fiber that is the growth trajectory for that part of the company. The enterprise side of the house is really served by a national fiber network with unique routes and great coverage to be able to allow companies to thrive in the digital era by connecting them pretty much anywhere they need to go. We sell services on top of that fiber network, whether it’s, you know, transport for data or voice solutions or communication services all up. And the big pivot, the big change, is really about preparing that network and those services to serve customers as they start to take on AI solutions. So, more data, faster pace, proliferation of these workloads to be processed kind of everywhere. And old telco is physical—point to point, static—and what companies need is a network that is lightning speed, ultra-low loss, ultra-low latency, ultra-high bandwidth, and dynamic. What Lumen is doing is we’re cloudifying telco. We’re wrapping a digital halo around a physical network, and we’re enabling it to be consumed digitally so it’s quick, secure, and effortless.
+
+MOLLY WOOD: How would you say this moment of technological innovation and disruption is reshaping the industry you’re in now?
+
+KATE JOHNSON: I would call telecommunications the final frontier for digital transformation. It’s kind of like the holdout team, right? You know, the group of companies in an industry that had secular headwinds and revenue declines, all of them had dividends and were considered income stocks, and so it was incredibly difficult to allocate capital towards investing for the future. So when I joined Lumen, I really saw this left-to-right, massive transformation opportunity. The old leadership team was like, Hey, keep the dividend alive. Do anything you can to survive. The board realized that that was not a long-term strategy, and in November of 2022 they asked me to pivot the company to growth. We cut the dividend, we brought in an entirely new leadership team. We set out a new strategy to try and tap into value that had never been realized before. We’ve been preparing for two years for what we’re now seeing as this massive once-in-a-generation spike in demand for terrestrial internet, mostly born out of AI’s proliferation of data workloads.
+
+MOLLY WOOD: Even if we were not at the moment of AI transformation that we are in right now, everything you’ve described is ripe for AI, I would imagine. Lumen had early access to Copilot and has been leveraging that tool’s capabilities. Can you give us an insider look at what you have experienced and how you’ve incorporated it?
+
+KATE JOHNSON: You know, in telco, and at Lumen specifically, we’ve been using AI for a long time, so, on this never-ending journey to have a self-healing network, you know, to avoid costs and unplanned downtime, to try and do better customer service. But with the advent of Copilot and Gen AI, there’s just a new opportunity. And people and companies don’t lose their jobs and their business to AI. They lose those things to companies who use AI. And so I wanted to be at the forefront. We need to move faster as a company. We need help in being agile, in being more insightful, in knowing more things across our customer life cycle, and AI has been instrumental in helping us get there.
+
+MOLLY WOOD: So can you be more specific about how Copilot, or any other AI tools you’re using, are changing day-to-day operations?
+
+KATE JOHNSON: AI for sales, Molly, that’s been huge for our people. You can imagine, with $15 billion of revenue and a huge install base... we have a lot to sell, and we have a lot of customers with, you know, every one of them is a snowflake. They all look different. So knowing what they have, knowing where they are in their journey, I want our sales people spending time with customers talking about business outcomes and where they want to go. I don’t want them trying to figure out what they’ve bought from Lumen and what they’re using versus not using, et cetera. AI really helps us understand our customers and where they are in their journey so much faster and better. It’s instantaneous. It also helps us figure out what the next best conversation and action is based on that customer’s behavior, based on where they are today, based on the portfolio of capabilities you have to choose from in order to sell. And so, right pitch, right customer, right time: that’s the key to a productive sales force, and we all want one of those, right, so that’s how we’re leveraging AI in sales.
+
+MOLLY WOOD: You have mentioned in the past this lesson that you learned at Microsoft, staying on the curve. Is that what you mean by staying ahead of these technologies so you don’t get disrupted by companies that are ahead of you on that curve?
+
+KATE JOHNSON: Think of my role as like an instigator. I’m a catalyst. I come in and I say, “Hey, what got us here isn’t going to get us where we need to go. So we need to change things.” And whether it’s your customers, whether it’s your partners, whether it’s your employees, whether it’s Wall Street, you can only change so much and get those different constituents to absorb that change. You push too far, you fall off the curve. So I always try and push hard enough to drive meaningful, measurable change, but not too much that you fall off the curve and you lose your audience. If you think about that from the perspective of adopting AI and getting your employees to sign up for—let’s face it, this really scary thing that we really don’t all understand yet. You’ve got to make sure you don’t push too hard. You know, we rolled out Microsoft 365 Copilot. We’ve rolled out several different AI capabilities, but let’s use that one as the prime example. The adoption was very low. And I remember my CIO calling and saying, “Hey, we’re not getting the adoption, the uptake, that I think you want to see.” And I said, “Okay, well, let’s start measuring it, and let’s start giving feedback for people that, you know, we know who’s using it and who’s not.” And he said, “Okay, Kate, let’s start with you.” And I was like, uh oh. [Laughter] And so, I looked at my own...
+
+MOLLY WOOD: This is why no one wants to be a change agent.
+
+KATE JOHNSON: [Laughter] That’s right, that’s right. You know, you got to own it. And lo and behold, I wasn’t using it nearly enough, and I would use it a little bit, and then not for days, and then a little bit, not for days. That’s really not adoption. Adoption is when it becomes the way that you work. And I had to pick a few things, a few easy things, like email—who doesn’t want to have shorter amounts of time mired in your email box? Well, me. I started using it in Microsoft Word for writing. I do a ton of writing. I write articles, I write notes to employees, to customers, et cetera. Leaning on Copilot’s ability to help us do that in my voice—huge impact to my productivity. And then we started talking about those tips and tricks with other leaders so that they could demonstrate that behavior, and then showing reports of adoption to our employees. That was kind of the method that we used, and our employees conservatively estimated about 30 minutes of knowledge worker time saved every day, which is hundreds of thousands of hours. And for a company that’s going through a transformation, everybody’s first conclusion is, well, so you don’t need as many people. And that’s not really true. We need the people that we have. What we need is for them a) to be more productive and then b) we need lots of skill shifting, reskilling, upskilling. AI is being very helpful in that journey as well, to get us so that we can focus on the right things at the right time during our transformation life cycle.
+
+MOLLY WOOD: Do you see this as two transformations happening in parallel: cloudifying Lumen, and also this kind of cultural shift to AI?
+
+KATE JOHNSON: In my head, it’s all integrated. And these are dependencies. So let’s be really clear: my goal is to pivot Lumen to be a growth company, and the only way to do that is to bring net new value to customers so that they want to do business with us. We’re maniacally focused on that. You go all the way back and you say, how do I get there? I’ve said many times, we’re going to transform this company, starting with the people, and focus on culture. I learned that from Satya, and, you know, took a lot of those plays from his playbook. And we were very clear on what great looks like in terms of our culture, our operating principles, our team trust transparency. You know, we know that the common denominators of companies that successfully transform are customer obsessed, they’re courageous, they have a growth mindset, they’re great communicators. And all of this is to try and reposition the company to do the things that will make our services and products more valuable to customers.
+
+MOLLY WOOD: And when you think of business value, how do you think about aggregating the measurements of individual productivity and translating those into division-wide value?
+
+KATE JOHNSON: Frankly, you know, Microsoft has a framework, and we’ve kind of modified it a little bit for our own purposes, but it starts with individual adaption of these capabilities. Then as individuals come together and we can start thinking about all of their contributions as a function, it turns out to be functional productivity, functional value delivered, whether it’s across customer success, whether it’s in sales, whether it’s in operations, et cetera. And then, as those functions come together to deliver the whole customer experience for a company, it’s, you know, AI impact at the company level. And the greatest example is customer success, right, or customer service and support. Customer calls in, I as an agent, you know, used to go on this great search for all of the information required to diagnose a problem so that I could try and fix it. Now, it’s kind of like, you know, we have an agent jump in the Teams. We have Copilot in Teams, we’ve got engineering, we’ve got operations, we’ve got repair manuals, we’ve got all those things available, and we get to the answer, the diagnosis, much more quickly. But the real trick is making sure that the customer success systems then absorb those discoveries and make sure that they’re available to all customers. It starts with one agent being more productive, and it translates into massive customer impact at scale.
+
+MOLLY WOOD: Compound interest.
+
+KATE JOHNSON: That’s right, yeah. [Laughter]
+
+MOLLY WOOD: Alright. So let’s talk about culture now, and the soft skills part of this, because I know culture is the thing that change agents run into over and over and over, and I know one thing you did at Lumen was bring in Brene Brown to roll out her Dare to Lead approach. Tell me a little about that program and why it was part of your approach to changing culture at this massive telecom company.
+
+KATE JOHNSON: The one thing that I’ve seen leaders, you know, throughout my career, whether they’re my bosses or peers or whatever, maybe leaders in other companies, the mistake that they make when they’re driving large-scale transformation is they ignore the fact that people need net new skills, that what got them here won’t get them there. And they focus on, hey, just take the hill. I don’t care how you get up there. Well, if you’re going to take the hill, you’re going to climb that mountain. You need oxygen, you need supplies, you need a backpack, a rucksack, whatever. And that’s what these tools and Dare to Lead are. So when I came to Lumen, we rolled out Dare to Lead to the entire company. When you’re mired in a company that’s inside of an industry that’s been in decline for a long time, there’s a mindset that sort of settles in, and the mindset is one of survival, and it’s one of playing not to lose, not taking a lot of risk—not playing to win. You’re actually playing to have as little disruption as possible to that revenue stream, because you want to be the last company standing in that industry. And that is very different than pivoting a company to growth, where you’ve got to take big bets, you’ve got to go after them. You have to be agile, and, you know, able to learn quickly and pivot and take risks to go after the bigger rewards. And we did so because we wanted people to understand that playing not to lose was the old way, playing to win is the new way, and the really hard conversations needed to be had for us to excavate the unsaid and actually start tackling problems. You can’t fix what you don’t know exists.
+
+MOLLY WOOD: So then talk about enabling that culture change. Are you finding that, you know, upskilling has been such a huge part of the—maybe upskilling is the wrong word—but reskilling, learning in a different way. We had Sal Khan talk about learning in the age of Gen AI, and I wonder how you think about whether some of these tools can speed that culture change.
+
+KATE JOHNSON: Oh, a hundred percent. So, you know, what was the last time, Molly, you did just a straight search?
+
+MOLLY WOOD: Nobody has time for that.
+
+KATE JOHNSON: Nobody has time for that anymore, right? There’s too much work involved. Isn’t that funny? By the way, 20 years ago, did you ever think you’d say that? So, basically, Gen AI doesn’t just do the searching for you, it also does the synthesis. And what I’m finding is that that synthesis puts me in a different position to think through problems and answer questions or, you know, put a plan together to move forward, and I’m having to shift how I spend my time. Now, there’s more than 25,000 people in the company that need to do the same with those answers, and some of them are going to be more suited than others to do it. So AI is playing a huge role in bridging the gap between the things we used to know how to do versus the things we need to learn. But in transformations, there’s something called change math, and when you first start, it’s a third, a third, a third. A third of the people are in, they can’t wait for the change. A third of the people are like, oh, hell no, I’m out. And then the middle third is really trying to make a decision, like, who’s gonna be the cool kids? We’re 20, 21 months into this journey of hardcore daily grind transformation, and we’ve dropped the third that doesn’t want to be here. They self-selected out, or maybe some of them even changed buckets. We’re now into two groups, skill and will. There are people with the will and the skill, and then there are people with the will, but they don’t have the skill. And we need to have systems and processes to upskill and reskill so that we can get them there, or we need to help them find jobs where they can leverage those skills that they do have and be productive. And so that’s kind of how we’re thinking about it. And sure, AI helps, but it’s a combination of a whole lot of strategic support from HR as well as the toolkit.
+
+MOLLY WOOD: And the toolkit maybe makes it feel accomplishable, but that foundation of leadership and support is what really gets it going.
+
+KATE JOHNSON: Yeah, people. People, people, people, whether they’re leaders...
+
+MOLLY WOOD: We keep coming back to that, the tools are amazing, but you’ve got to have the humans.
+
+KATE JOHNSON: That’s right.
+
+MOLLY WOOD: Well, and being a change agent within an organization, for anybody who’s ever done it, can be really hard.
+
+KATE JOHNSON: It’s hard.
+
+MOLLY WOOD: So I feel like the point you’re making about not being the only one in charge of the change and creating an ecosystem where people feel like it’s safe to believe that this change is going to happen is what makes it work.
+
+KATE JOHNSON: Right. And I think there’s also this notion, and I was talking about this earlier with my team, this notion of getting it right. You know, curiosity. Tell me more, tell me more, tell me more, tell me more, until you get to the place where you are excavating the unsaid, as I said before, and getting to the hard truths about what’s standing in your way. The world is so complicated, and these transformations are so hard that anybody who thinks they have all the answers is headed for a really hard moment when they figure out they don’t. And so, like Satya did, like many of the other leaders who are successfully transforming companies, empowering many people to come together to solve problems, is the way. And making space for not knowing it all, making space for sometimes getting it wrong and being able to quickly fix things, that’s kind of the way that we need to operate, especially if you’re trying to disrupt an industry. You don’t just go in there and say, Oh, guess what? We’re going to sell you a completely new product, and you’re going to have to consume it in a completely new way. And, you know, it’s up to you to figure that out. No, you have to work side by side with your customer, co-innovating and getting to a place where they’re willing to change how they buy it, how they use it, how they pay you, how they drive adoption in their own company. And all of that is about taking culture and kind of driving it across the ecosystem, realizing it’s not just about me, but to get it right, I have to get everybody working in the same direction on this problem with me.
+
+MOLLY WOOD: Alright. Now I want to bring it home to you with a couple of our little up-level questions. What is the latest thing that AI helped you with at work and not at work?
+
+KATE JOHNSON: Whenever I’m writing, it is a big part of how I get started. You know, personally, big skiing family. I’ve made some strides in my skiing lately and realized the importance of equipment. My daughter was a snowboarder and decided she wanted to pivot and come over to the land of skiing with me. And I used Copilot to really understand the right skis to buy for her, and I was prepared at the dinner table with my husband, who is, by the way, an amazing skier and has very strong opinions. I was fully prepared for that conversation, thank you, Copilot.
+
+MOLLY WOOD: [Laughter] That’s amazing. Winning dinner table conversation is a deeply underrated aspect.
+
+KATE JOHNSON: True story. By the way, she bought the skis. She loves them. Thank you.
+
+MOLLY WOOD: That’s right. Winning. Okay, so when AI saves you time, for example, with the searches that nobody has time for anymore, when you have those moments, what do you do with the extra time?
+
+KATE JOHNSON: I have a little party, full celebration, yeah. [Laughter] So in my role, look, these jobs are 24/7, and so there’s very little time where you’re like, well, I have nothing else to do. I think the trick is trying to make a big enough impact in the time that you’re willing to allocate to work. And I realize just, you know, one of these things that leaders realize that when you work, you’re like a pebble in a pond, and there are these—you make a splash, and you make rings of work for other people. And so if I send a note on a Saturday morning, people feel obligated to respond. And so I’m very cognizant of trying to work during certain time frames so that I don’t put undue pressure on others. I really don’t have, you know, a lack of things to do. I just go on to the next thing and the next thing and the next thing. And if it can help me be more productive during the day, then I’ll take that all day long, every day. And that’s what I’m finding, is that it’s helping me glue things together a bit more quickly. It’s helping me discover, and instead of search it’s doing more synthesis for me, and it’s helping me get more things done during the time that I am willing to allocate to work.
+
+MOLLY WOOD: Okay, last question. Fast-forward three to five years. What do you think will be the most profound change in the way we work?
+
+KATE JOHNSON: I think you’re going to see a step function change up the value chain where most of the lower-order thinking roles are done by AI, by bots, by technology. And so my hope is that there’s a pretty significant infusion in our school systems to be able to address this gap. And my hope is that for all of the places where there’s opportunity for people to harness the power of technology that they have the skill sets to be able to do so, because I think that’s what’s going to be needed.
+
+MOLLY WOOD: Kate Johnson is President and CEO of Lumen Technologies, change agent extraordinaire. Kate, thanks so much for the time today.
+
+KATE JOHNSON: Thank you. It was fun.
+
+MOLLY WOOD: Well, that was a fantastic way to kick off this new season of WorkLab, the podcast from Microsoft. Thanks again to our guest, Kate Johnson, and thanks to all of you for joining me in these incredible conversations. Please subscribe if you have not already, and check back for the rest of season 7, where we will continue to explore how AI is transforming every aspect of how we work. If you’ve got a question or comment, please drop us an email at worklab@microsoft.com, and check out Microsoft’s Work Trend Indexes and the WorkLab digital publication, where you’ll find all our episodes, along with thoughtful stories that explore how business leaders are thriving in today’s new world of work. You can find all of it at microsoft.com/worklab. As for this podcast, please, if you don’t mind, rate us, review us, and follow us wherever you listen. It helps us out a ton. The WorkLab podcast is a place for experts to share their insights and opinions. As students of the future of work, Microsoft values inputs from a diverse set of voices. That said, the opinions and findings of our guests are their own and they may not necessarily reflect Microsoft’s own research or positions. WorkLab is produced by Microsoft with Godfrey Dadich Partners and Reasonable Volume. I’m your host, Molly Wood. Sharon Kallander and Matthew Duncan produced this podcast. Jessica Voelker is the WorkLab editor.
+
+AI will be our most effective, least judgmental tutor. But humans have their work cut out for them too.
+
+As AI goes from personal assistant to group assistant, the CVP of Business and Industry Copilot at Microsoft sees big opportunities for business leaders.

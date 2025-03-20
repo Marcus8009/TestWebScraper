@@ -1,0 +1,23 @@
+=== TRANSCRIPT ===
+
+No transcript found.
+
+=== PAGE CONTENT ===
+
+Eric Horvitz, chief scientific officer of Microsoft, and David Baker, director of the Baker Lab and Institute for Protein Design at the University of Washington, discuss recent advancements with harnessing machine learning for protein design, the potential benefits to society, and the value of nurturing deep collaborations across academia and industry. The discussion references two research papers published in Science: Scaffolding protein functional sites using deep learning
+(opens in new tab)
+(21 Jul 2022) and Computed structures of core eukaryotic protein complexes
+(opens in new tab)
+(11 Nov 2021).
+
+Related links
+
+Chief Scientific Officer
+
+Director, Baker Lab and Institute for Protein Design
+
+University of Washington
+
+Follow us:
+
+Share this page:

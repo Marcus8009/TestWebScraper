@@ -1,0 +1,35 @@
+=== TRANSCRIPT ===
+
+No transcript found.
+
+=== PAGE CONTENT ===
+
+“Now is the time for urgent action. Those of us that can do more, should do more. But the challenges we face are complex, and no one company, sector, or country can solve them alone.”
+
+Join Trevor Noah, Microsoft’s Chief Questions Officer, in a thought-provoking series that delves into the world of Artificial Intelligence (AI) alongside our AI for Good Lab partners. Each episode explores fundamental questions at the heart of AI’s global impact. From shaping public safety, to health and education, the series takes viewers to the forefront of technological advancements, engaging with technologists, engineers, and scientists. These episodes catalyze discussions about the limitless possibilities of AI.
+
+In this book by Microsoft’s Chief Data Scientist Juan Lavista Ferres, discover how mission-driven leaders and AI researchers are using technology to transform the world for the better. With foreword from Brad Smith, Vice Chair and President of Microsoft.
+
+33M people are affected by food insecurity.
+
+70% decline in our planet’s wildlife since 1970
+
+1.3B people or 1 in 6 in the US live with a disability
+
+<50% of people globally have access to essential health services.
+
+SPARROW, developed by Microsoft’s AI for Good Lab, is a solar-powered, AI-driven system for monitoring biodiversity in remote areas. Using edge computing and advanced sensors, it collects and processes data on wildlife and ecosystems, transmitting real-time insights via satellites to help researchers protect our planet’s biodiversity.
+
+Deforestation threatens millions of species in the Amazon rainforest. By analyzing daily satellite images, monitoring animal behavior with hidden cameras, and listening to forest sounds through tiny microphones, AI rapidly detects changes, helping scientists protect biodiversity more effectively. The future of the Amazon is becoming brighter.
+
+Amref is working with the University of Southern California (USC), the Kenyan Ministry of Health, and Microsoft AI for Good Lab to develop a model that predicts health risks with AI. Each partner institution contributed their expertise to develop a solution that will empower government and humanitarian groups to tackle community health in a new way. 
+
+DrumBeat.ai uses AI to detect ear diseases like otitis media and assess hearing loss risk from ear images. Prioritizing urgent cases and enabling early treatment in remote areas, it improves care access and outcomes—helping prevent lifelong hearing loss, which disproportionately affects Indigenous children due to limited healthcare access.
+
+The AI for Good Lab and IOM use AI and climate data to identify vulnerable communities at risk from extreme heat, flooding, and sea level rise. Pilot projects in Libya, Ethiopia, and the Maldives uncovered insights that empower organizations to anticipate risks, improve resilience, and develop proactive strategies that can be scaled globally.
+
+Photogrammetry, AI, and digital preservation combine to create a digital twin of St. Peter’s Basilica using thousands of images, enabling people to explore it in detail from anywhere in the world. AI detected cracks and missing mosaic tiles, helping to ensure the preservation of the Basilica as a cultural, spiritual, and historically significant site for years to come.
+
+Follow us:
+
+Share this page:
